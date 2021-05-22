@@ -1,6 +1,5 @@
-//Elisheva Medioni 337628390
+//Elisheva Medioni
 //sadna c++
-//ex11 question2
 //  Student.h
 //  Created by Elish on 14/06/2020.
 //  Copyright © 2020 Elish. All rights reserved.
