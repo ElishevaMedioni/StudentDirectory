@@ -1,5 +1,6 @@
 # StudentDirectory
-A program that manages the registration of students at the institution
+A program that manages the registration of students at the institution.
+
 I use the SearchTree class to store the list of students.
 
 The SearchTree class inherits from Tree class, the Tree class allows me to store the students with a lexicographic classification and to ease the handling of the data.
